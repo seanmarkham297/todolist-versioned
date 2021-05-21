@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c6af69-b28e-4501-9e3e-ec5b5d22f012" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist-versioned.iws" beforeDir="false" afterPath="$PROJECT_DIR$/todolist-versioned.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
